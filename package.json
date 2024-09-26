@@ -16,3 +16,6 @@
     "master-nodejs": "file:"
   },
   "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
